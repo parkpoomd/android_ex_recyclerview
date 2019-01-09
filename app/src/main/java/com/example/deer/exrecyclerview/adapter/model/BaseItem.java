@@ -1,4 +1,4 @@
-package com.example.deer.exrecyclerview;
+package com.example.deer.exrecyclerview.adapter.model;
 
 public class BaseItem {
 

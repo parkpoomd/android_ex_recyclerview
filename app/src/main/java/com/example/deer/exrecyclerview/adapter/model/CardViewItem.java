@@ -1,4 +1,6 @@
-package com.example.deer.exrecyclerview;
+package com.example.deer.exrecyclerview.adapter.model;
+
+import com.example.deer.exrecyclerview.adapter.ViewType;
 
 public class CardViewItem extends BaseItem {
 
